@@ -1,3 +1,6 @@
 ...\albums> react-native run-android
 
 reload = rr
+
+justifyContent
+alignItems
