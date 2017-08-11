@@ -31,3 +31,8 @@ Life Cycle Methods
 
 Axios
 nmp install --save axios
+
+Component Level State: (only for class based components)
+1) create empty state
+2) update component state after fetching data
+3)
