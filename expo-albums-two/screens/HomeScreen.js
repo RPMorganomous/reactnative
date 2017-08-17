@@ -51,7 +51,7 @@ export default class HomeScreen extends React.Component {
 
             <Text style={styles.getStartedText}>
               I like playing with Expo.  Unless it stops working :(  But it's working well now.  Wow...
-              This is working really good.  Really, really good!
+              This is working really good.  Really, really good!  Still works.  So solid!
             </Text>
           </View>
 
